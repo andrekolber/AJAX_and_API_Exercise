@@ -58,6 +58,7 @@ function populateShows(shows) {
              <p class="card-text">${show.summary}</p>
              <button class="get-episodes">Episodes</button>
            </div>
+		   <br>
          </div>
        </div>
       `
